@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @eduardadomingues013
-- 👀 I’m interested in aprender a programar
-- 🌱 I’m currently learning com o alura
+- 👀 I’m interested in aprender programar
+- 🌱 Learning com o alura
+
 
 <!---
 eduardadomingues013/eduardadomingues013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
